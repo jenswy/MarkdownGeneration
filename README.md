@@ -1,0 +1,1 @@
+This project contains Python code in Jupyter Notebook folders to query GitLab's API for time tracking information. It then uses this information to generate a Markdown table with all relevant time tracking information. 
